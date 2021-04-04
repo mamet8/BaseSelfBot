@@ -157,7 +157,7 @@ atau bisa juga
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`Mamet`](https://github.com/mamet8/)
+* [`Mat`](https://github.com/mamet8/)
 * [`SlavyanDesu`](https://github.com/SlavyanDesu)
 * [`VideFrelan`](https://github.com/VideFrelan)
 * [`TobyG74`](https://github.com/TobyG74)
